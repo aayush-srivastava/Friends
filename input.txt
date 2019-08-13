@@ -1,0 +1,21 @@
+10
+Siddharth Saran
+Aayush Srivastava
+Rakshit Shetty
+Rachit Sabharwal
+Vedant Verma
+Dhruvit Raithata
+Prem Choudhary
+Anshul Singhal
+Sheroy Rohilla
+Kartik Agarwal
+0, 0, 1, 0, 1, 1, 1, 1, 0, 0
+0, 0, 0, 1, 1, 0, 1, 1, 0, 0
+1, 0, 0, 0, 0, 0, 0, 0, 1, 0
+0, 1, 0, 0, 1, 0, 0, 0, 0, 1
+1, 1, 0, 1, 0, 1, 0, 0, 0, 0
+1, 0, 0, 0, 1, 0, 0, 0, 0, 0
+1, 1, 0, 0, 0, 0, 0, 0, 0, 0
+0, 1, 0, 0, 0, 0, 0, 0, 1, 0
+0, 0, 1, 0, 0, 0, 0, 1, 0, 1
+0, 0, 0, 1, 0, 0, 0, 0, 1, 0
